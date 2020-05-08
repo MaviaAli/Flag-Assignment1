@@ -1,0 +1,30 @@
+body {
+background-color: #e2e4e5;
+text-align: center;
+
+}
+h1 {
+background-color: #eceef1;
+font-family: 'Lobster', cursive;
+font-size: 2cm;
+text-shadow: 1px 1px 2px red;
+text-align : center;
+padding: 10px;
+
+}
+figcaption{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+
+}
+figure{
+    display: inline-block;
+    padding: 1cm;
+    border-radius: 5px;
+    cursor: pointer;
+}
+figure:hover{
+    background-color: #eceef1;
+    color: red;
+
+}
